@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedLegend97
 - 👀 I’m interested in GameProgramming and recommender systems
-- 🌱 I’m currently learning Unity and Cocos2d-x next to recommender systems
+- 🌱 I’m currently improving myself in Unity next to recommender systems
 - 📫 How to reach me alpermisirli@gmail.com
 
 <!---
