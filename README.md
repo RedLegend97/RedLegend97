@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedLegend97
+- 👋 Hi, I’m Alper MISIRLI @RedLegend97
 - 👀 I’m interested in GameProgramming and recommender systems
 - 🌱 I’m currently improving myself in Unity next to recommender systems
 - 📫 How to reach me alpermisirli@gmail.com
