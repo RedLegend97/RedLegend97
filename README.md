@@ -6,6 +6,8 @@ I had a passion for playing video games, which eventually triggered an interest 
 I am mainly using **Unity** to develop my games
 Now I am doing master’s degree to better develop myself in terms of both practical and scholar aspects.
 
+You can check my [YouTube](https://www.youtube.com/channel/UCXD5feA2ppGkwKx-MFW8fRQ/videos) for gameplay videos.
+
 ## Language and Tools:
 
 <code><img height="25" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" >  </code>
