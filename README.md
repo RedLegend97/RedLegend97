@@ -24,4 +24,5 @@ Now I am doing master’s degree to better develop myself in terms of both pract
 <a href="https://www.linkedin.com/in/osmanalpermisirli/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:alpermisirli@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCXD5feA2ppGkwKx-MFW8fRQ/videos" target="_blank"> <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
 </p>
